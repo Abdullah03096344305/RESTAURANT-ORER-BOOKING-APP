@@ -1,0 +1,11 @@
+7 UP,130
+Dew,130
+Pepsi,130
+Marinda,130
+Fanta,140
+Roar,100
+String,80
+COLA CAN,90
+YELLOW STRING,100
+COCA COLA,140
+Lemon Malt,130

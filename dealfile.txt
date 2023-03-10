@@ -1,0 +1,9 @@
+Zinger Burger + Reg. Fries + Reg. Drink,360
+Twister + Reg. Fries + Reg. Drink,380
+Chicken Burger + Reg. Fries + Reg. Drink,300
+Chicken Burger(5) + Family Fries + Chicken Piece(5),300
+Zinger Burger(2) + Chicken Burger(2),600
+Pizza(2) + Reg. Fries,1500
+Pizza + Chicken Burger + Reg. Fries,1100
+3 WEDDED SHEIKH + LOADED FRIES + COLD-DRINK,1200
+2 Beef Hunter + 2 Student Shawarma + Fries + Coke,750

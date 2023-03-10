@@ -1,0 +1,15 @@
+turkey burger,500
+wild salmon,550
+bean burger,300
+Beef Hunter,400
+ARFC special,600
+dado mazo,250
+special humpty,400
+humble pie,223
+humpty dumpty,450
+happy burger,500
+WEDDED SHEIKH,400
+Student Burger,150
+dfj,34
+Mushroom Burger,220
+peri peri burger,250
